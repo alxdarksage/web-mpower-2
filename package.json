@@ -28,7 +28,7 @@
     "npmlog": "^4.1.2",
     "sinon": "^2.4.1",
     "vue": "^2.5.6",
-    "vue-axios": "^2.0.2",
+    "vue-axios": "^2.1.5",
     "vue-lodash": "^1.0.4",
     "vue-multiselect": "^2.0.6",
     "vue-router": "^2.8.1",
